@@ -1,8 +1,8 @@
 # Hacktober2022
 
 Google docs links- 
-https://docs.google.com/document/d/1taFIIs6HOkMSIAKKnzBtI2AEhtI8_9R3ELCDECLkHvY/edit?usp=sharing
-https://docs.google.com/document/d/1k_iuP6p3drnzBi_YZWn8xmWb2RxfsLCHiALlHNqa93A/edit?usp=sharing
+https://docs.google.com/document/d/1taFIIs6HOkMSIAKKnzBtI2AEhtI8_9R3ELCDECLkHvY/edit?usp=sharing | 
+https://docs.google.com/document/d/1k_iuP6p3drnzBi_YZWn8xmWb2RxfsLCHiALlHNqa93A/edit?usp=sharing | 
 https://docs.google.com/document/d/1yax3zT2v1vU7wXTjpNU1YOhvBNm_HXMg1HyWe3le8Xc/edit?usp=sharing
 
 GAME BACKSTORY: 
